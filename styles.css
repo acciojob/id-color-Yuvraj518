@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.qq{
+	background-color:yellow;
+	border:1px solid green;
+}
+.qa{
+	background-color:red;
+	border:1px solid black;
+}
+.qz{
+	background-color:green;
+	border:1px solid yellow;
+}
